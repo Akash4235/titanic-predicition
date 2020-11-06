@@ -1,2 +1,4 @@
-# Data source from Kaggle competition naming titanic: machine learning from disaster.
-# This model is prepared to predict whether a passenger will survive or die in the titanic disaster.
+# Predicting survival-death of the passengers in titanic disaster.
+This model predict who survived the titanic accident based on there location in titanic, gender, age at the time of accident.
+The model used Logistic Function to predict Survival.
+Source of data: https://www.kaggle.com/c/titanic
